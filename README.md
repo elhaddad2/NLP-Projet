@@ -1,2 +1,2 @@
 # NLP-Projet
-sentiment analysis  of insurance reviews french
+Analyse du sentiment des revues des compagnies d'assurance
